@@ -1,0 +1,17 @@
+<<<<<<< HEAD
+sssssit  is very good!
+=======
+dasddsdsdsdsdsit  is very good!
+>>>>>>> feature1
+git  is good
+git  is bad
+<<<<<<< HEAD
+=======
+git  is very bad
+<<<<<<< HEAD
+>>>>>>> wms
+哈哈哈哈哈哈哈哈哈
+=======
+>>>>>>> wmsddddsdsddsdsdsssssssssssssssssssssssdssssssssdss
+dsdsssssssssssssssssssssss
+>>>>>>> feature1
