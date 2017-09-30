@@ -1,4 +1,4 @@
 <?php
-echo'welcome baby!!!';
-phpinfo();
+echo'newadmin-www';
+
 ?>
