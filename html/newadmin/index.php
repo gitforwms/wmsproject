@@ -1,4 +1,4 @@
 <?php
-echo'newadmin-www';
+echo'newadmin-top';
 
 ?>
